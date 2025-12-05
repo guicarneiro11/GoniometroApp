@@ -1,4 +1,4 @@
-# 📱 Avaly
+# 📐 Avaly
 Professional digital goniometry app for physiotherapists, offering precise measurements and complete patient management.
 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.guicarneirodev.goniometro)
@@ -13,37 +13,37 @@ Professional digital goniometry app for physiotherapists, offering precise measu
     <img src="https://i.imgur.com/ur9vmbV.png" width="300px" alt="Feature Demonstration"/>
 </div>
 
-## 📋 About the Project
+## About the Project
 Avaly revolutionizes how physiotherapists perform goniometric assessments, replacing physical instruments with a precise and efficient digital solution. Developed with a focus on user experience and clinical precision.
 
-## ⭐ Highlights
-- 📊 Used in clinics and offices
-- 🔄 Frequent updates
-- 📱 Modern and intuitive interface
+## Highlights
+- Used in clinics and offices
+-  Frequent updates
+-  Modern and intuitive interface
 
-## 🚀 Main Features
+## Main Features
 
-### 📐 Digital Goniometry
+### Digital Goniometry
 - Precise measurements from gallery photos or camera
 - Adaptable quadrants for different joints
 - Intuitive interface for professionals
 
-### 👥 Patient Management
+### Patient Management
 - Complete patient registration
 - Organization by individual records
 - Detailed assessment history
 
-### 📊 Reports and Analysis
+### Reports and Analysis
 - Automatic PDF report generation
 - Integrated email sending
 - Progress tracking
 
-### 💾 Backup and Security
+### Backup and Security
 - Cloud synchronization
 - Automatic data backup
 - Protection of sensitive information
 
-## 🛠️ Technologies
+## Technologies
 
 ### Frontend
 - Kotlin
@@ -75,7 +75,7 @@ Avaly revolutionizes how physiotherapists perform goniometric assessments, repla
 - Espresso (UI/Integration)
 - Mockito (Mocks)
 
-## 📈 Roadmap
+## Roadmap
 - [x] Launch on Play Store
 - [x] Firebase Integration
 - [x] PDF Report System
@@ -83,28 +83,28 @@ Avaly revolutionizes how physiotherapists perform goniometric assessments, repla
 - [ ] New Measurement Tools
 - [x] Interface in Other Languages
 
-## 🔧 Installation
+## Installation
 1. Download directly from [Google Play Store](https://play.google.com/store/apps/details?id=com.guicarneirodev.goniometro)
 2. Login or register
 3. Start using immediately
 
-## 💡 Feedback and Support
-- ⭐ Rate on Play Store
-- 📧 Send suggestions via email
-- 🐛 Report bugs through issues
+## Feedback and Support
+- Rate on Play Store
+- Send suggestions via email
+- Report bugs through issues
 
-## 👨‍💻 Developer
+## Developer
 **Guilherme Carneiro**
 - [LinkedIn](https://www.linkedin.com/in/guicarneiro1)
 - [GitHub](https://github.com/guicarneiro11)
 - Email: contato@avaly.com.br
 
-## 📜 License
+## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
-### ⭐ Like the project? Leave a star!
+### Like the project? Leave a star!
 [![GitHub stars](https://img.shields.io/github/stars/guicarneiro11/anglepro?style=social)](https://github.com/guicarneiro11/anglepro/stargazers)
 </div>
